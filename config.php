@@ -1,3 +1,3 @@
 <?php
-define('IG_USERNAME', 'USERNAME');
-define('IG_PASS', 'PASSWORD');
+define('IG_USERNAME', 'nome-de-usuario');
+define('IG_PASS', 'senha');
